@@ -5,7 +5,7 @@
     <packaging>jar</packaging>
     <version>5.7.3-SNAPSHOT</version>
     <name>cucumber-reporting</name>
-    <url>https://github.com/damianszczepanik/cucumber-reporting</url>
+    <url>https://github.com/lucashirsch/cucumber-reporting</url>
 
     <properties>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
